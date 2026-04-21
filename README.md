@@ -25,14 +25,14 @@ A aplicação permite filtrar os dados por ano, isótopo, status de conclusão e
 
 ## Como executar o projeto
 
-### 1. Clonar o repositório
+### 1 - clonar o repo
 
-```bash
+bash
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
-cd NOME_DO_REPO
+cd NOME_DO_REPO 
 
-### 2. Criar um ambiente virtual
-No Windows:
+### 2 - Criar um venv
+No windows:
 
 python -m venv .venv
 .venv\Scripts\Activate.ps1
